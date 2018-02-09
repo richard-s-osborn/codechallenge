@@ -7,3 +7,9 @@ To use this app:
 - create "contacts" schema
 
 - start app
+
+- access via browser http:\\localhost\8080
+
+- select "setup"
+
+- select "index"
